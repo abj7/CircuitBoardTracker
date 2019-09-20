@@ -35,6 +35,7 @@
     <Folder Include="simple-object-tracking\pyimagesearch\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="requirements.txt" />
     <Content Include="simple-object-tracking\.vs\ProjectSettings.json" />
     <Content Include="simple-object-tracking\.vs\simple-object-tracking\v16\.suo" />
     <Content Include="simple-object-tracking\.vs\slnx.sqlite" />
